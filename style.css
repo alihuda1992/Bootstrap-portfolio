@@ -1,0 +1,29 @@
+.navbarp {
+    
+    margin-bottom: 0px;
+    padding-left:15px;
+    padding-right:15px;
+    font-size: 30px;
+    background-color: #ebebeb;
+    color:  teal;
+}
+
+.navbar-default{
+    background-color: #ebebeb;
+}
+
+.navbar-header {
+    font-family: 'Pacifico', cursive;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/black_scales.png");
+    background-repeat: repeat-h;
+}
+
+.DefaultPic {
+    margin-left: 15px;
+    
+}
