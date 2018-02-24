@@ -23,7 +23,16 @@ body {
     background-repeat: repeat-h;
 }
 
-.DefaultPic {
-    margin-left: 15px;
+.media-object {
+    border-style: dotted;
+    border-width: 5px;
+    border-color: ghostwhite;
     
+}
+
+.panel-body {
+    background-color:black;
+    border-style: solid;
+    border-width: 2px;
+    color: #ebebeb;
 }
